@@ -1,0 +1,2 @@
+# simpleHash
+Simple Hash Calculation
