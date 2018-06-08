@@ -1,2 +1,1 @@
-# simpleHash
-Simple Hash Calculation
+# Simple Hash Calculation
